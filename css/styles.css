@@ -12,7 +12,7 @@
 
 /* Add some padding inside the card container */
 .container {
-    padding: 2px 16px;
+    padding: 222px 16px;
 }
 
 .card-space {
@@ -41,8 +41,4 @@ div#OR {
     top: 40%;
     z-index: 1;
     background: #DFDFDF;
-}
-body { 
-    padding-top: 65px; 
-
 }
