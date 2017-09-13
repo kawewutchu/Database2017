@@ -42,3 +42,6 @@ div#OR {
     z-index: 1;
     background: #DFDFDF;
 }
+body { 
+    padding-top: 65px; 
+}
