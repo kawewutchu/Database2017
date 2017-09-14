@@ -70,6 +70,7 @@
                 <div class="col col-lg-3">
                     <h4><b>John Doe</b></h4>
                     <p><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span></p>
+                    <a class="btn btn-dark" href="404page.html" role="button">JOIN</a>
                 </div>
             </div>
         </div>
@@ -94,6 +95,7 @@
                     <h4><b>John Doe</b></h4>
                     <p><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>
                     </p>
+                    <a class="btn btn-dark" href="404page.html" role="button">JOIN</a>
                 </div>
             </div>
         </div>
@@ -118,6 +120,7 @@
                     <h4><b>John Doe</b></h4>
                     <p><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>
                     </p>
+                    <a class="btn btn-dark" href="404page.html" role="button">JOIN</a>
                 </div>
             </div>
         </div>

@@ -6,11 +6,11 @@
                 CARD GAME
             </button>
             <div class="dropdown-menu">
-                <a class="dropdown-item" href="#">YU-GI-OH</a>
-                <a class="dropdown-item" href="#">SUMMONERS</a>
-                <a class="dropdown-item" href="#">SLAVE</a>
+                <a class="dropdown-item" href="404page.html">YU-GI-OH</a>
+                <a class="dropdown-item" href="404page.html">SUMMONERS</a>
+                <a class="dropdown-item" href="404page.html">SLAVE</a>
                 <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#">etc.</a>
+                <a class="dropdown-item" href="404page.html">etc.</a>
             </div>
         </div>
 
@@ -19,11 +19,11 @@
                 BOARD
             </button>
             <div class="dropdown-menu">
-                <a class="dropdown-item" href="#">WAREWOLF</a>
-                <a class="dropdown-item" href="#">MONOPOLY</a>
-                <a class="dropdown-item" href="#">CHESS</a>
+                <a class="dropdown-item" href="404page.html">WAREWOLF</a>
+                <a class="dropdown-item" href="gamedetail.php">MONOPOLY</a>
+                <a class="dropdown-item" href="404page.html">CHESS</a>
                 <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#">etc.</a>
+                <a class="dropdown-item" href="404page.html">etc.</a>
             </div>
         </div>
     </div>
